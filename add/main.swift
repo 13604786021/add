@@ -8,7 +8,8 @@
 
 import Foundation
 
-var a=2
-var b=3
-let c=a+b
-print(c)
+var vall=0
+for var i=0;i<=100;++i{
+vall=vall+i
+}
+print(vall)
